@@ -9,5 +9,6 @@
 ![](./doc/trains.png)
  
 * The learning task: determine what governs which kinds of trains are Eastbound and which kinds are Westbound
+* read mode at `trains.names`
 
 [reference](https://slidewiki.org/presentation/1030-1/michalski's-train-problem/1030-1/8650-2/?locale=pt#/slide-8650-2)
